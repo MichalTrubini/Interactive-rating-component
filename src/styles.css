@@ -1,0 +1,11 @@
+:root {
+    --black-gradient: radial-gradient(#e66465, #9198e5)
+}
+
+body {
+    font-family: 'Overpass', sans-serif;
+}
+
+.radial-one {
+    background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%)
+}
