@@ -7,9 +7,9 @@ const RateScreen: React.FC<{ rating:number | null, show:boolean, onSubmit: () =>
   return (
     <>
       <img className="sm:w-12" src={starIcon} alt="star" />
-      <h1 className="mt-4 mb-2.5 text-2xl text-left text-white sm:mt-8 sm:text-3xl">
+      <h2 className="mt-4 mb-2.5 text-2xl text-left text-white sm:mt-8 sm:text-3xl">
         How did we do?
-      </h1>
+      </h2>
       <p className="text-light-grey text-sm/5 mb-6 sm:text-medium/6">
         Please let us know how we did with your support request. All feedback is
         appreciated to help us improve our offering!
