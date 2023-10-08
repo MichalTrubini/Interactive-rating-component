@@ -7,16 +7,22 @@ export default {
         "body": "#131518",
         "rating": "#262E38",
         "orange": "#FC7614",
+        "medium-grey": "#7C8798",
       },
       textColor: {
-        "par": "#969FAD",
+        "light-grey": "#969FAD",
         "medium-grey": "#7C8798",
+        "orange": "#FC7614",
       },
       screens: {
         'sm': '460px',
       },
       fontSize: {
+        'medium': '0.95rem',
         '3xl': '1.75rem',
+      },
+      maxWidth: {
+        'md': '412px',
       }
     },
   },
